@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/friends-game-react/static/css/main.34de6062.chunk.css",
-    "main.js": "/friends-game-react/static/js/main.4c93f5f2.chunk.js",
-    "main.js.map": "/friends-game-react/static/js/main.4c93f5f2.chunk.js.map",
+    "main.js": "/friends-game-react/static/js/main.f6326a60.chunk.js",
+    "main.js.map": "/friends-game-react/static/js/main.f6326a60.chunk.js.map",
     "runtime-main.js": "/friends-game-react/static/js/runtime-main.f16e3e25.js",
     "runtime-main.js.map": "/friends-game-react/static/js/runtime-main.f16e3e25.js.map",
     "static/js/2.6bbc9386.chunk.js": "/friends-game-react/static/js/2.6bbc9386.chunk.js",
     "static/js/2.6bbc9386.chunk.js.map": "/friends-game-react/static/js/2.6bbc9386.chunk.js.map",
     "index.html": "/friends-game-react/index.html",
-    "precache-manifest.e9a5d53493c35f536eb1f12b0dca3b3a.js": "/friends-game-react/precache-manifest.e9a5d53493c35f536eb1f12b0dca3b3a.js",
+    "precache-manifest.f61267e8e35eb9f7adfabc65c4e9d5f6.js": "/friends-game-react/precache-manifest.f61267e8e35eb9f7adfabc65c4e9d5f6.js",
     "service-worker.js": "/friends-game-react/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/friends-game-react/static/css/main.34de6062.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.f16e3e25.js",
     "static/js/2.6bbc9386.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.4c93f5f2.chunk.js"
+    "static/js/main.f6326a60.chunk.js"
   ]
 }
