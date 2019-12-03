@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "Cathy",
+    "image": "./images/friends-cathy.png"
+  },
+  {
+    "id": 2,
+    "name": "Chandler",
+    "image": "./images/friends-chandler.png"
+  },
+  {
+    "id": 3,
+    "name": "David",
+    "image": "./images/friends-david.png"
+  },
+  {
+    "id": 4,
+    "name": "Elizabeth",
+    "image": "./images/friends-elizabeth.png"
+  },
+  {
+    "id": 5,
+    "name": "Gunther",
+    "image": "./images/friends-gunther.png"
+  },
+  {
+    "id": 6,
+    "name": "Jack",
+    "image": "./images/friends-jack.png"
+  },
+  {
+    "id": 7,
+    "name": "Janice",
+    "image": "./images/friends-janice.png"
+  },
+  {
+    "id": 8,
+    "name": "Joey",
+    "image": "./images/friends-joey.png"
+  },
+  {
+    "id": 9,
+    "name": "Judy",
+    "image": "./images/friends-judy.png"
+  },
+  {
+    "id": 10,
+    "name": "Mike",
+    "image": "./images/friends-mike.png"
+  },
+  {
+    "id": 11,
+    "name": "Mona",
+    "image": "./images/friends-mona.png"
+  },
+  {
+    "id": 12,
+    "name": "Monica",
+    "image": "./images/friends-monica.png"
+  },
+  {
+    "id": 13,
+    "name": "Phoebe",
+    "image": "./images/friends-phoebe.png"
+  },
+  {
+    "id": 14,
+    "name": "Rachel",
+    "image": "./images/friends-rachel.png"
+  },
+  {
+    "id": 15,
+    "name": "Richard",
+    "image": "./images/friends-richard.png"
+  },
+  {
+    "id": 16,
+    "name": "Ross",
+    "image": "./images/friends-ross.png"
+  },
+  {
+    "id": 17,
+    "name": "Tag",
+    "image": "./images/friends-tag.png"
+  }
+]
