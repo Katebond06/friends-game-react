@@ -2,86 +2,86 @@
   {
     "id": 1,
     "name": "Cathy",
-    "image": "./images/friends-cathy.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399062/click/friends-cathy_xcyvnk.jpg"
   },
   {
     "id": 2,
     "name": "Chandler",
-    "image": "./images/friends-chandler.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399062/click/friends-chandler_fyunmb.jpg"
   },
   {
     "id": 3,
     "name": "David",
-    "image": "./images/friends-david.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399062/click/friends-david_tqmhez.jpg"
   },
   {
     "id": 4,
     "name": "Elizabeth",
-    "image": "./images/friends-elizabeth.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399062/click/friends-elizabeth_naeyuh.jpg"
   },
   {
     "id": 5,
     "name": "Gunther",
-    "image": "./images/friends-gunther.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399062/click/friends-gunther_zhiiu8.jpg"
   },
   {
     "id": 6,
     "name": "Jack",
-    "image": "./images/friends-jack.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399063/click/friends-jack_j1a2tj.jpg"
   },
   {
     "id": 7,
     "name": "Janice",
-    "image": "./images/friends-janice.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399063/click/friends-janice_tianoz.jpg"
   },
   {
     "id": 8,
     "name": "Joey",
-    "image": "./images/friends-joey.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399063/click/friends-joey_w1phjn.jpg"
   },
   {
     "id": 9,
     "name": "Judy",
-    "image": "./images/friends-judy.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399063/click/friends-judy_ke9bma.jpg"
   },
   {
     "id": 10,
     "name": "Mike",
-    "image": "./images/friends-mike.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399062/click/friends-mike_phlvvs.jpg"
   },
   {
     "id": 11,
     "name": "Mona",
-    "image": "./images/friends-mona.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399062/click/friends-mona_b6qtj7.png"
   },
   {
     "id": 12,
     "name": "Monica",
-    "image": "./images/friends-monica.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399062/click/friends-monica_j1zyrs.jpg"
   },
   {
     "id": 13,
     "name": "Phoebe",
-    "image": "./images/friends-phoebe.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399062/click/friends-phoebe_pyfvwo.jpg"
   },
   {
     "id": 14,
     "name": "Rachel",
-    "image": "./images/friends-rachel.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399063/click/friends-rachel_jftcos.png"
   },
   {
     "id": 15,
     "name": "Richard",
-    "image": "./images/friends-richard.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399063/click/friends-richard_wo9p1o.png"
   },
   {
     "id": 16,
     "name": "Ross",
-    "image": "./images/friends-ross.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399063/click/friends-ross_o4jkbw.jpg"
   },
   {
     "id": 17,
     "name": "Tag",
-    "image": "./images/friends-tag.png"
+    "image": "https://res.cloudinary.com/dmer2gzhp/image/upload/v1575399063/click/friends-tag_bn2k0h.jpg"
   }
 ]
